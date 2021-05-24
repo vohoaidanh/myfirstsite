@@ -4,5 +4,7 @@
 			"path": "myfirstsite"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"python.pythonPath": "C:\\Users\\DANH\\anaconda3\\envs\\Yolov4\\python.exe"
+	}
 }
