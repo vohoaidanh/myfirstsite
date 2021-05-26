@@ -5,6 +5,6 @@
 		}
 	],
 	"settings": {
-		"python.pythonPath": "C:\\Users\\DANH\\anaconda3\\envs\\Yolov4\\python.exe"
+		"python.pythonPath": "C:\\Users\\DANH\\anaconda3\\envs\\YoloRT\\python.exe"
 	}
 }
