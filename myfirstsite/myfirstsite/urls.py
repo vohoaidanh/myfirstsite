@@ -21,6 +21,8 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('demo/', include('demo.urls')),
     path('subscribe/', include('subscribe.urls')),
+    path('upload/', include('profile_maker.urls')),
+    
     
 ]
 
